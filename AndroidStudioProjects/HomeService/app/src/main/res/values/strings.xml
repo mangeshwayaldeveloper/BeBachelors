@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HomeService</string>
+    <string name="plumbing_activity">Get Plumber At Your Home Contact Now</string>
+    <string name="elctrican_activity">Get Electrician At Your Home Contact Now</string>
+    <string name="cleaner_activity">Get Cleaner At Your Home Contact Now</string>
+    <string name="breaker_worker">Get Breaker Worker At Your Place Contact Now</string>
+    <string name="builder">Get Builder At Your Place Contact Now</string>
+    <string name="carpenter">Get Carpenter At Your Place Contact Now</string>
+    <string name="cleaner">Get Cleaner At Your Home Contact Now</string>
+    <string name="helper_activity">Get Helper At Your Home Contact Now</string>
+    <string name="gardner_activity">Get Gardner At Your Home Contact Now</string>
+    <string name="common_Worker">Get Common Worker At Your Home Contact Now</string>
+    <string name="service_man">Get Service Man At Your Home Contact Now</string>
+    <string name="driver">Get Driver At Your Home Contact Now</string>
+    <string name="mechanical">Get Mechanical At Your Home Contact Now</string>
+    <string name="marble_style_worker">Get Marble Style Workers At Your Home Contact Now</string>
+    <string name="other_services">Get Other Services At Your Home Contact Now</string>
+    <string name="welder_services">Get Welders Services At Your Home Contact Now</string>
+    <string name="btn_text">Contact Now</string>
+</resources>
